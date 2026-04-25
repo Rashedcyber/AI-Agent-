@@ -1,0 +1,7 @@
+ipykernel
+dotenv
+langchain
+langchain_community
+langchain_google_gemai
+langgraph
+langchain_core
