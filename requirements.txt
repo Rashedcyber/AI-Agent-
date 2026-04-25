@@ -6,4 +6,4 @@ langchain-google-genai
 langgraph
 langchain_core
 youtube-search-python
-youtube-search
+youtube-search 
